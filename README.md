@@ -83,7 +83,7 @@ Before getting started, ensure that you have the following installed:
 
 #Clone the repository to your local machine.
   
-        git clone <https://github.com/Crlgbll/frontend>
+        git clone <https://github.com/Crlgbll/Chatbot>
 
 #Navigate to the project directory using your terminal.
 
